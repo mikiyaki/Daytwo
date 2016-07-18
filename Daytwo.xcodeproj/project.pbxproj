@@ -193,6 +193,8 @@
 				TargetAttributes = {
 					AC7D53D91D3C8F5A0039B7CD = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = F5UGQ6A2KJ;
+						DevelopmentTeamName = "馨方 范 (Personal Team)";
 						ProvisioningStyle = Automatic;
 					};
 					AC7D53ED1D3C8F5B0039B7CD = {
@@ -409,6 +411,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Daytwo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Fstudio.Daytwo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -421,6 +424,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Daytwo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Fstudio.Daytwo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
